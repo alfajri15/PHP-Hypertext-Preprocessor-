@@ -1,0 +1,41 @@
+Gaya penulisan case dalam kode program
+1. Style snake_case
+$nama_variable
+$nama_barang
+$nama_class
+
+2. Style CamelCase
+$NamaVariable
+$NamaBarang
+$Namaclass
+
+3. Style kebab-case
+font-family
+text-align
+font-size
+
+4. Style ALL CAPS
+HOSTNAME
+DATABASE
+URL_STRING
+
+================================================
+
+// Membuat Variable Baru
+$harga1 = 1000;
+$nama_barang = "Kopi Robusta";
+$harga2 = 20000;
+$stok = 30;
+
+// Mengambil Nilai dari Variable
+echo"Harga 1 Roti Gepeng adalah $harga1 <br>";
+echo"Konsumen membeli $nama_barang dengan harga Rp$harga2 dengan jumlah $stok pcs";
+
+===================================================
+
+Nama variabel bersifat Case Sensitive, artinya huruf besar dan huruf kecil dibedakan.
+// $Belajar = "";
+// $BELAJAR = "";
+// $belajar = "";
+
+
