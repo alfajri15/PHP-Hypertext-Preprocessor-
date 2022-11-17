@@ -1,0 +1,12 @@
+1. Buka menu File > Preferences > User Snippets.
+2. Tuliskan code berikut pada php.code-snippets:
+"php":
+	{
+		"prefix":"php",
+		"body":[
+			"<?php $1 ?>"
+		],
+		"description": "php tag"
+	}
+3. Jangan lupa untuk disimpan.
+4. Coba praktek dengan membuka sebuah file php, kemudian ketik pada keyboard: php.
